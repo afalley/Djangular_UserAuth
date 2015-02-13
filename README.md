@@ -16,7 +16,6 @@ Basic registration, login and logout application using Django, REST and AngularJ
 * `$ npm install -g bower`
 * `$ npm install`
 * `$ bower install`
-
 * If the DB isn't running, in the virtualenv, run <code>postgres -D /usr/local/var/postgres</code>
 * In the virtualenv,  <code>psql postgres</code>
 * In postgres, open <code>create database PROJECT_NAME;</code>
