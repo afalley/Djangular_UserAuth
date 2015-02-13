@@ -1,6 +1,6 @@
 # Djangular_UserAuth
-*Basic registration, login and logout application using Django, REST and AngularJS.
-*Based on [thinkster.io](https://thinkster.io/django-angularjs-tutorial/) tutorial.
+* Basic registration, login and logout application using Django, REST and AngularJS.
+* Based on [thinkster.io](https://thinkster.io/django-angularjs-tutorial/) tutorial.
 
 
 ## Installation
