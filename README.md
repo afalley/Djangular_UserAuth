@@ -19,6 +19,7 @@ Basic registration, login and logout application using Django, REST and AngularJ
 * If the DB isn't running, in the virtualenv, run <code>postgres -D /usr/local/var/postgres</code>
 * In the virtualenv,  <code>psql postgres</code>
 * In postgres, open <code>create database PROJECT_NAME;</code>
+* Open your project in PYCharm at connect virtualenv etc. See notes django_setup
 * In <code>local_settings.py</code> edit <code>PROJECT_NAME</code> to match your database name
 ````Python
 DATABASES = {
